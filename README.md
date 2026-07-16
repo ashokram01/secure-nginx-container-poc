@@ -25,6 +25,7 @@ This is a DevSecOps micro-project (Proof of Concept) focused on building a secur
 - <img width="1150" height="445" alt="Screenshot_2026-07-16_13-41-53" src="https://github.com/user-attachments/assets/86725c77-fd47-4d20-95ad-930873616de4" />
 - **Storage Optimization:** Reduced the final production image size from **67.7MB** to **65.5MB**, minimizing the attack surface and improving deployment speed.
 <img width="755" height="117" alt="Screenshot_2026-07-16_13-58-19" src="https://github.com/user-attachments/assets/3c201099-7ba7-4b99-accb-f4b46653e451" />
+
 ## Files Included
 - `Dockerfile`: Contains the multi-stage build instructions.
 - `index.html`: A sample web page served by the Nginx container.
